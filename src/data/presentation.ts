@@ -33,7 +33,5 @@ const presentation: Presentation = {
   ],
 };
 
-export default presentation;
-
 
 export default presentation;
