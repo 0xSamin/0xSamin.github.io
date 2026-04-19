@@ -16,15 +16,15 @@ const presentation: Presentation = {
   title: "Hi, I’m Samin 👋",
   // profile: "/profile.webp",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Hello, I'm a *Data Analyst* passionate about extracting insights from data. I am currently expanding my skills through hands-on *Machine Learning projects* to transition into a Data Scientist or ML Engineer role. Outside of work, I enjoy exploring new AI models and continuously learning.",
   socials: [
     {
       label: "X",
       link: "https://twitter.com/saminsjourney",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "LinkedIn",
+      link: "https://www.linkedin.com/in/Samin-khademi",
     },
     {
       label: "Github",
@@ -32,5 +32,8 @@ const presentation: Presentation = {
     },
   ],
 };
+
+export default presentation;
+
 
 export default presentation;
