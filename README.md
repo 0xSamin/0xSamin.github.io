@@ -30,18 +30,7 @@ All commands are run from the root of the project, from a terminal:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SterbenVD"><img src="https://avatars.githubusercontent.com/u/90999906?v=4?s=100" width="100px;" alt="Vishal Vijay Devadiga"/><br /><sub><b>Vishal Vijay Devadiga</b></sub></a><br /><a href="https://github.com/MaeWolff/astro-portfolio-template/commits?author=SterbenVD" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/khushChopra"><img src="https://avatars.githubusercontent.com/u/43996455?v=4?s=100" width="100px;" alt="Khush Chopra"/><br /><sub><b>Khush Chopra</b></sub></a><br /><a href="https://github.com/MaeWolff/astro-portfolio-template/commits?author=khushChopra" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://jbrave.ir"><img src="https://avatars.githubusercontent.com/u/57140027?v=4?s=100" width="100px;" alt="Javad Shoja"/><br /><sub><b>Javad Shoja</b></sub></a><br /><a href="#maintenance-javadshoja" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://rishi.app"><img src="https://avatars.githubusercontent.com/u/46300090?v=4?s=100" width="100px;" alt="Rishi Raj Jain"/><br /><sub><b>Rishi Raj Jain</b></sub></a><br /><a href="https://github.com/MaeWolff/astro-portfolio-template/commits?author=rishi-raj-jain" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://zackbraksa.com"><img src="https://avatars.githubusercontent.com/u/379453?v=4?s=100" width="100px;" alt="Zack Braksa"/><br /><sub><b>Zack Braksa</b></sub></a><br /><a href="https://github.com/MaeWolff/astro-portfolio-template/commits?author=zackbraksa" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
